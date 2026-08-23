@@ -1,0 +1,12 @@
+some new file
+<<<<<<< HEAD
+222222
+=======
+dfgsggdg
+>>>>>>> add-new-files
+git add .
+git merge main
+git branch feature/mearge-conflict-merge-tool
+git checkout feature/mearge-conflict-merge-tool
+git status
+

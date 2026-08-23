@@ -1,9 +1,6 @@
 some new file
 dfgsggdg
-<<<<<<< HEAD
+
 I just have added some text to check cherepick
 by github and update locally 
-=======
-I just have added some text to check cherepick 
-by github
->>>>>>> edcde2b0b853df64af97e28df34e3db0afe2302d
+
